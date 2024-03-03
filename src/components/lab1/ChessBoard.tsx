@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles/chess.css";
+import "../../styles/chess.css";
 
 type ChessBoardProps = {};
 
